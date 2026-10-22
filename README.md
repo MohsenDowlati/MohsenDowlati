@@ -1,8 +1,11 @@
-<h2 data-importer="text" align="left">Hi 👋! My name is Mohsen and I like [https://github.com/sindresorhus/sindresorhus/blob/main/cat-typing.gif] , and [https://www.pixilart.com/art/baby-dragon-gif-1beef92d0d507f5]</h2>
+<h2 data-importer="text" align="left"><img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="30" /> Hi 👋! My name is Mohsen</h2>
+
+<h2> I love <img src="cat-typing.gif" width="50" height="50" alt="Cat Typing" style="vertical-align: middle;"> and <img src="ghost.gif" width="60" height="60" alt="Ghost" style="vertical-align: middle;"> </h2>
+
 
 ###
 
-<img data-importer="image" align="right" height="150" src="https://github.com/RaghavK16/RaghavK16/blob/master/coderman.gif"  />
+<img data-importer="image" align="right" height="150" src="coderman.gif"  />
 
 ###
 
