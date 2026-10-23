@@ -1,6 +1,9 @@
-<h2 data-importer="text" align="left"><img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="30" /> Hi 👋! My name is Mohsen</h2>
-
+<div data-importer="border">
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
+</div>
+<h2 data-importer="text" align="left"> <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="30" /> Hi!  My name is Mohsen</h2>
 <h2> I love <img src="cat-typing.gif" width="50" height="50" alt="Cat Typing" style="vertical-align: middle;"> and <img src="ghost.gif" width="60" height="60" alt="Ghost" style="vertical-align: middle;"> </h2>
+
 
 <div data-importer="stats" align="center">
   <img src="https://raw.githubusercontent.com/MohsenDowlati/MohsenDowlati/stats-output/stats.svg" height="150" alt="GitHub stats" />
@@ -13,6 +16,8 @@
 <img data-importer="image" align="right" height="150" src="coderman.gif"  />
 
 ###
+
+Self-taught and low-key obsessed with both poetry and continuous leveling up. To me, code is literally just modern poetry—and every new language, framework, or tool is just another rhythm to write verses with. You can’t paint a whole vibe with only one color, so I keep stacking tools to build cooler, cleaner things. 👇
 
 <div data-importer="techs" align="left">
   <img src="https://cdn.simpleicons.org/go/00ADD8" height="30" alt="go logo"  />
@@ -123,21 +128,81 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=github" height="30" alt="github logo"  />
 </div>
+Por cierto, estoy aprendiendo español tambien.
+
 
 ###
-
 <picture data-importer="pacman">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MohsenDowlati/MohsenDowlati/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MohsenDowlati/MohsenDowlati/pacman-output/pacman-contribution-graph.svg?game=pacman">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/MohsenDowlati/MohsenDowlati/pacman-output/pacman-contribution-graph.svg?game=pacman">
 </picture>
 
+###
+
+<h3 align="center">🛠️ Featured Builds & Lab Experiments</h3>
+
+<p align="center">
+  <em>Treating code like verses — building low-level guts, high-scale infra, and AI sidekicks.</em>
+</p>
+
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🦀 <a href="https://github.com/MohsenDowlati/thug">T.H.U.G</a></h4>
+      <p><strong>Truly Humble Under Git</strong> — Built a Git-inspired VCS from scratch in Rust. Content-addressable storage, tree snapshots, index staging, and raw plumbing vibes.</p>
+      <code>Rust</code> <code>VCS</code> <code>Systems</code>
+    </td>
+    <td width="50%" valign="top">
+      <h4>⚡ <a href="https://github.com/MohsenDowlati/sus">sus (Shorts)</a></h4>
+      <p>Long URLs were giving bad energy, so I cooked a scalable shortener with Redis caching, Redis Streams event pipelines, and full Jaeger/Prometheus observability.</p>
+      <code>Go</code> <code>Redis Streams</code> <code>MongoDB</code> <code>OTel</code>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>💬 <a href="https://github.com/MohsenDowlati/wassup">wassup</a></h4>
+      <p>High-speed, distributed real-time chat platform. Zero clutter, bulletproof resilience, and end-to-end security to talk to friends without Big Tech listening in.</p>
+      <code>Go</code> <code>WebSockets</code> <code>Distributed</code> <code>Redis</code>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🤖 <a href="https://github.com/MohsenDowlati/jobeja">jobeja</a></h4>
+      <p>AI-powered autonomous task and workflow scheduler wired straight into Telegram. Your personal automated chief of staff on 24/7 grind.</p>
+      <code>Go</code> <code>OpenAI API</code> <code>Telegram Bot</code>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🚦 <a href="https://github.com/MohsenDowlati/traffic-sign">traffic-sign</a></h4>
+      <p>Custom load balancer directing traffic like a maestro. Smooth round-robin, health probes, and high-concurrency flow control.</p>
+      <code>Go</code> <code>Networking</code> <code>Reverse Proxy</code>
+    </td>
+    <td width="50%" valign="top">
+      <h4>📝 <a href="https://github.com/MohsenDowlati/mohsion">mohsion</a></h4>
+      <p>Notion felt bloated, so I tried to hijack the market with a lightweight, minimalist note and doc sanctuary built my way.</p>
+      <code>Fullstack</code> <code>Productivity</code> <code>Notes</code>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" valign="top">
+      <h4>🛡️ <a href="https://github.com/MohsenDowlati/Moodsen">Moodsen</a></h4>
+      <p>Diving deep into <strong>DevSecOps</strong>: CI/CD security pipelines, vulnerability audits, automated threat gates, and hardened infrastructure.</p>
+      <code>DevSecOps</code> <code>CI/CD</code> <code>Cloud Security</code>
+    </td>
+  </tr>
+</table>
 
 ###
 
-<p data-importer="text" align="left">If you want to contribute with me you can reach me with following ways:</p>
+![Activity Graph](https://raw.githubusercontent.com/MohsenDowlati/MohsenDowlati/output/activity-graph.svg)
+
+<div data-importer="image" align="center">
+  <img data-importer="image" height="200" src="https://i.giphy.com/RThN0hOS2GO4M.gif"  />
+</div>
 
 ###
+
+<p data-importer="text" align="left">Always down to team up on unhinged side-quests. Reach me here:</p>
 
 <div data-importer="socials" align="left">
   <a href="dowmohsen@gmail.com" target="_blank">
@@ -151,25 +216,19 @@
   </a>
 </div>
 
+###
+
+Thanks for stopping by my corner of the internet. May your builds never fail and your PRs merge clean 💫
+
+
 <div data-importer="profile-views" align="center">
   <img data-importer="profile-views" src="https://count.getloli.com/@:MohsenDowlati?theme=gelbooru&padding=7&scale=1&align=top&pixelated=1&darkmode=auto" alt="profile view"  />
 </div>
 
 ###
 
-![Activity Graph](https://raw.githubusercontent.com/MohsenDowlati/MohsenDowlati/output/activity-graph.svg)
-
-
-<div data-importer="image" align="center">
-  <img data-importer="image" height="200" src="https://i.giphy.com/RThN0hOS2GO4M.gif"  />
-</div>
-
-###
-
-
-
 <div data-importer="border">
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=egg&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=twinkling&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=twinkling&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
 </div>
 
 ###
