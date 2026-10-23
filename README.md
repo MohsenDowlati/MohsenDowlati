@@ -126,6 +126,15 @@
 
 ###
 
+<picture data-importer="pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MohsenDowlati/MohsenDowlati/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MohsenDowlati/MohsenDowlati/pacman-output/pacman-contribution-graph.svg?game=pacman">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/MohsenDowlati/MohsenDowlati/pacman-output/pacman-contribution-graph.svg?game=pacman">
+</picture>
+
+
+###
+
 <p data-importer="text" align="left">If you want to contribute with me you can reach me with following ways:</p>
 
 ###
@@ -140,6 +149,10 @@
   <a href="https://gitlab.com/MohsenDowlati" target="_blank">
     <img src="https://img.shields.io/static/v1?message=GitLab&logo=gitlab&label=&color=FC6D26&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gitlab logo"  />
   </a>
+</div>
+
+<div data-importer="profile-views" align="center">
+  <img data-importer="profile-views" src="https://count.getloli.com/@:MohsenDowlati?theme=gelbooru&padding=7&scale=1&align=top&pixelated=1&darkmode=auto" alt="profile view"  />
 </div>
 
 ###
