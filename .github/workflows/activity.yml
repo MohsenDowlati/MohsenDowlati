@@ -1,9 +1,9 @@
 name: Update Activity Graph
 
 on:
-  schedule: # execute every 12 hours
-    - cron: "* */12 * * *"
-  workflow_dispatch:
+  schedule:              
+  - cron: "0 */12 * * *"
+  workflow_dispatch:      
 
 jobs:
   build:
@@ -18,7 +18,7 @@ jobs:
       - name: Generate activity graph
         uses: maurodesouza/github-readme-activity-graph-action@v1
         with:
-          username: ${{ github.repository_owner }}
+          username: MohsenDowlati       
           options: theme=dracula&hide_border=true
           output_path: dist/activity-graph.svg
           token: ${{ secrets.GITHUB_TOKEN }}
