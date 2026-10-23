@@ -17,7 +17,7 @@
 
 ###
 
-Self-taught and low-key obsessed with both poetry and continuous leveling up. To me, code is literally just modern poetry—and every new language, framework, or tool is just another rhythm to write verses with. You can’t paint a whole vibe with only one color, so I keep stacking tools to build cooler, cleaner things. 👇
+Self-taught and low-key obsessed with both poetry and continuous leveling up. To me, code is literally just modern poetry and every new language, framework, or tool is just another rhythm to write verses with. You can’t paint a whole vibe with only one color, so I keep stacking tools to build cooler, cleaner things. 👇
 
 <div data-importer="techs" align="left">
   <img src="https://cdn.simpleicons.org/go/00ADD8" height="30" alt="go logo"  />
