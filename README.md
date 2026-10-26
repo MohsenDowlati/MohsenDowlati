@@ -184,10 +184,15 @@ Por cierto, estoy aprendiendo español tambien.
     </td>
   </tr>
   <tr>
-    <td colspan="2" valign="top">
+    <td width="50%" valign="top">
       <h4>🛡️ <a href="https://github.com/MohsenDowlati/Moodsen">Moodsen</a></h4>
       <p>Diving deep into <strong>DevSecOps</strong>: CI/CD security pipelines, vulnerability audits, automated threat gates, and hardened infrastructure.</p>
       <code>DevSecOps</code> <code>CI/CD</code> <code>Cloud Security</code>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🤳 <a href="https://github.com/MohsenDowlati/talk-space">Talk Space</a></h4>
+      <p>Talk Space is a total W: a tiny Rust and WebAssembly flex for zero-latency peer-to-peer browser video calls where a lightweight Rust WebSocket server acts as the wingman, seamlessly passing your WebRTC signals, no cap.</p>
+      <code>Rust</code> <code>WebAssembly</code> <code>WebRTC</code>
     </td>
   </tr>
 </table>
