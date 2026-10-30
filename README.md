@@ -183,7 +183,13 @@ Por cierto, estoy aprendiendo español tambien.
       <code>Fullstack</code> <code>Productivity</code> <code>Notes</code>
     </td>
   </tr>
-  <tr>
+</table>
+
+<details>
+  <summary><b>📂 View More Projects (Page 2)</b></summary>
+  <br/>
+  <table width="100%">
+   <tr>
     <td width="50%" valign="top">
       <h4>🛡️ <a href="https://github.com/MohsenDowlati/Moodsen">Moodsen</a></h4>
       <p>Diving deep into <strong>DevSecOps</strong>: CI/CD security pipelines, vulnerability audits, automated threat gates, and hardened infrastructure.</p>
@@ -195,7 +201,20 @@ Por cierto, estoy aprendiendo español tambien.
       <code>Rust</code> <code>WebAssembly</code> <code>WebRTC</code>
     </td>
   </tr>
-</table>
+    <tr>
+      <td width="50%" valign="top">
+      <h4>🌐 <a href="https://github.com/MohsenDowlati/googool">Googool</a></h4>
+      <p>Bro really built a mini Google from scratch just to flex on Wikipedia, no cap. It lowkey cooks with that inverted index and BM25 ranking, straight up giving big search engine rizz.</p>
+        <code>Rust</code> <code>Gamma coding</code> <code>VByte encoding</code>
+      </td>
+      <td width="50%" valign="top">
+        <h4>👣 <a href="https://github.com/MohsenDowlati/footbook">footbook</a></h4>
+        <p>Building a custom social network from scratch using Neo4j to map out all the friend connections, DynamoDB keeping the data scaling smooth, and GraphQL handling the queries cleanly.</p>
+        <code>Go</code> <code>DynamoDB</code> <code>Neo4j</code> <code>GraphQL</code>
+      </td>
+    </tr>
+  </table>
+</details>
 
 ###
 
