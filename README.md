@@ -160,11 +160,11 @@ Por cierto, estoy aprendiendo español tambien.
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
-      <h4>💬 <a href="https://github.com/MohsenDowlati/wassup">wassup</a></h4>
-      <p>High-speed, distributed real-time chat platform. Zero clutter, bulletproof resilience, and end-to-end security to talk to friends without Big Tech listening in.</p>
-      <code>Go</code> <code>WebSockets</code> <code>Distributed</code> <code>Redis</code>
-    </td>
+  <td width="50%" valign="top">
+    <h4>⚽ <a href="https://github.com/MohsenDowlati/ucl-predictor">UCL Predictor</a></h4>
+    <p>Chasing losses on dodgy accumulator slips is pure delulu, so I built a live ML pipeline that actually does the math.</p>
+    <code>Python</code> <code>machine learning</code> <code>MLOps</code>
+  </td>
     <td width="50%" valign="top">
       <h4>🤖 <a href="https://github.com/MohsenDowlati/jobeja">jobeja</a></h4>
       <p>AI-powered autonomous task and workflow scheduler wired straight into Telegram. Your personal automated chief of staff on 24/7 grind.</p>
@@ -211,6 +211,18 @@ Por cierto, estoy aprendiendo español tambien.
         <h4>👣 <a href="https://github.com/MohsenDowlati/footbook">footbook</a></h4>
         <p>Building a custom social network from scratch using Neo4j to map out all the friend connections, DynamoDB keeping the data scaling smooth, and GraphQL handling the queries cleanly.</p>
         <code>Go</code> <code>DynamoDB</code> <code>Neo4j</code> <code>GraphQL</code>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%" valign="top">
+      <h4>💬 <a href="https://github.com/MohsenDowlati/wassup">wassup</a></h4>
+      <p>High-speed, distributed real-time chat platform. Zero clutter, bulletproof resilience, and end-to-end security to talk to friends without Big Tech listening in.</p>
+      <code>Go</code> <code>WebSockets</code> <code>Distributed</code> <code>Redis</code>
+    </td>
+      <td width="50%" valign="top">
+        <h4>🔐 <a href="https://github.com/MohsenDowlati/mvault">mVault</a></h4>
+        <p>Trusting the cloud with your passwords is crazy, so I cooked up a zero-bloat desktop vault in pure Rust. Generate a secure password for each service using <a href="https://github.com/MohsenDowlati/bash_password_generator">this repo</a> then lock it down in mVault.</p>
+        <code>Rust</code> <code>SQLite</code> <code>bash scripting</code>
       </td>
     </tr>
   </table>
